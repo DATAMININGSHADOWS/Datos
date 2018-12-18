@@ -1,0 +1,433 @@
+Folio;Boleta
+350;construccion 
+460;agua  otros 
+628;servicio 
+640;lacteo limpieza pan snack 
+673;fruta 
+683;arroz azucar construccion construccion fiesta limpieza otros otros roceador vestuario 
+684;cocina higiene higiene 
+738;fruta pan 
+756;agua  
+761;agua  agua  agua  
+775;agua  agua  agua  
+782;agua  agua  agua  
+785;agua  agua  
+791;agua  agua  agua  
+797;agua  
+803;agua  agua  
+807;otros 
+822;agua  agua  agua  
+839;agua  agua  agua  
+850;agua  agua  agua  
+860;agua  bebida 
+867;agua  agua  agua  
+879;agua  agua  agua  otros 
+892;agua  agua  
+898;agua  otros otros 
+925;agua  agua  agua  
+931;agua  agua  agua  
+940;agua  agua  agua  
+951;agua  agua  agua  
+960;agua  agua  agua  
+961;otros 
+971;agua  agua  agua  
+974;agua  agua  agua  otros 
+980;agua  agua  agua  
+1008;agua  agua  agua  
+1882;pan 
+1975;pan 
+2068;pan 
+2159;pan 
+2502;jugo lacteo 
+2764;fruta 
+2833;fruta 
+2922;embutido jugo 
+2928;fruta 
+3182;snack 
+3184;embutido jugo pan 
+3341;snack 
+3444;snack 
+3565;construccion 
+4654;snack verdura 
+5015;snack verdura 
+5423;embutido 
+6553;embutido higiene snack snack snack snack snack snack 
+7086;embutido embutido snack snack 
+7285;embutido 
+7520;embutido snack snack snack 
+7641;otros 
+7685;fruta fruta 
+8367;embutido snack snack snack 
+9006;embutido snack 
+9361;embutido embutido snack snack snack 
+15180;fruta 
+15496;fruta 
+15614;fruta 
+15652;fruta 
+15900;fruta 
+15973;fruta 
+16151;fruta 
+16248;fruta 
+16292;fruta 
+16529;fruta 
+16656;fruta 
+16737;fruta 
+16850;fruta 
+17006;fruta 
+17142;fruta 
+17234;fruta 
+17431;fruta 
+17709;fruta 
+17880;fruta 
+19920;construccion 
+24431;vessi 
+28867;condimento snack snack 
+30020;embutido snack snack snack snack snack 
+31731;condimento snack 
+32311;condimento 
+34899;condimento 
+35035;otros 
+36513;snack snack 
+37104;condimento 
+43488;bebida servicio 
+63693;embutido 
+65179;embutido 
+68596;embutido 
+78858;jugo otros servicio verdura 
+78860;condimento conserva jugo legumbre otros postre servicio verdura verdura 
+157152;bebida bebida bebida bebida bebida bebida bebida bebida bebida bebida jugo jugo jugo jugo jugo servicio 
+157153;jugo servicio 
+157237;bebida servicio 
+157736;bebida bebida bebida bebida bebida bebida bebida bebida bebida bebida bebida bebida jugo jugo jugo servicio 
+157737;agua  agua  agua  agua  agua  bebida servicio 
+158275;agua  agua  agua  agua  bebida bebida bebida bebida bebida bebida bebida bebida bebida bebida bebida servicio 
+158276;agua  bebida bebida bebida jugo jugo jugo jugo jugo jugo servicio 
+158851;bebida bebida bebida bebida bebida bebida bebida bebida bebida bebida bebida bebida bebida bebida bebida servicio 
+158852;agua  agua  agua  agua  agua  jugo jugo jugo jugo jugo jugo jugo jugo jugo servicio 
+161518;agua  agua  agua  agua  agua  agua  bebida bebida bebida bebida bebida bebida bebida bebida bebida servicio 
+161519;agua  agua  agua  agua  agua  bebida bebida bebida bebida bebida servicio 
+162210;agua  bebida bebida bebida bebida bebida bebida bebida bebida bebida bebida bebida jugo jugo jugo servicio 
+162211;jugo jugo jugo jugo jugo jugo jugo jugo jugo servicio 
+162674;agua  agua  agua  agua  agua  agua  agua  bebida bebida bebida bebida bebida jugo jugo jugo servicio 
+162675;bebida servicio 
+163525;agua  agua  agua  agua  agua  agua  agua  agua  agua  bebida bebida bebida bebida jugo jugo servicio 
+166070;agua  agua  agua  agua  agua  bebida bebida bebida bebida bebida bebida bebida bebida jugo jugo servicio 
+166071;bebida jugo jugo jugo jugo jugo jugo jugo servicio 
+170760;agua  agua  agua  bebida bebida bebida bebida bebida bebida jugo jugo jugo jugo jugo jugo servicio 
+170761;jugo jugo servicio 
+389157;condimento condimento condimento conserva jugo jugo jugo jugo jugo legumbre legumbre legumbre otros postre servicio verdura verdura 
+389162;condimento conserva jugo legumbre otros postre servicio verdura verdura 
+391705;aceite jugo lacteo otros postre servicio 
+393713;jugo otros servicio verdura 
+396257;jugo jugo jugo legumbre otros servicio 
+398076;aceite jugo otros servicio verdura 
+415411;higiene higiene 
+432132;legumbre 
+434423;higiene higiene higiene legumbre legumbre legumbre legumbre limpieza marisco salsa 
+655100;bebida 
+655221;bebida bebida bebida bebida bebida bebida jugo jugo jugo jugo 
+655428;agua  agua  bebida 
+790540;agua  agua  agua  
+793551;agua  agua  
+794930;agua  agua  
+830503;agua  azucar cereal cereal condimento condimento higiene lacteo lacteo marisco marisco sopa sopa sopa yogurt yogurt yogurt 
+830700;cafe marisco marisco 
+830781;higiene higiene higiene higiene lacteo legumbre mascota mascota salsa verdura 
+830887;limpieza 
+831300;condimento verdura verdura 
+831402;cafe higiene marisco 
+1003219;higiene higiene limpieza promocion servicio 
+1547128;arroz azucar bebida bebida bebida bebida cafe cafe cafe cafe cereal cereal chocolate chocolate chocolate condimento condimento condimento fiesta fiesta helado helado jugo jugo jugo lacteo lacteo lacteo lacteo lacteo lacteo lacteo lacteo legumbre limpieza limpieza limpieza marisco marisco otros otros salsa servicio snack snack snack snack snack snack snack snack snack snack snack snack snack snack verdura yogurt yogurt 
+1559117;aceite arroz bebida bebida cafe cafe cereal cereal chocolate chocolate chocolate chocolate chocolate cocina condimento condimento condimento condimento condimento condimento condimento construccion helado higiene lacteo legumbre limpieza limpieza limpieza otros otros otros otros otros postre postre postre salsa snack snack snack snack snack snack snack snack snack snack snack snack verdura vinagre yogurt yogurt yogurt yogurt yogurt yogurt yogurt yogurt 
+1559118;bebida bebida cocina fiesta jugo lacteo otros otros sacarina 
+1570217;agua  agua  azucar bebida bebida cafe cereal cereal cereal chocolate chocolate chocolate chocolate chocolate chocolate condimento condimento condimento fideo fiesta fiesta fruta jugo jugo jugo jugo jugo lacteo lacteo lacteo limpieza mascota mascota mascota otros otros otros otros otros otros sacarina sal salsa salsa snack snack snack snack snack snack snack snack snack sopa verdura yogurt yogurt yogurt yogurt yogurt 
+1570218;arroz construccion otros snack snack snack snack 
+1588472;arroz cereal cereal chocolate chocolate chocolate chocolate chocolate chocolate chocolate chocolate condimento condimento condimento condimento condimento condimento condimento condimento fideo fideo fideo fiesta higiene jugo jugo jugo jugo jugo jugo lacteo limpieza limpieza otros otros otros postre postre pure salsa salsa salsa snack snack snack snack snack snack snack sopa sopa sopa sopa utiles yogurt yogurt yogurt yogurt yogurt yogurt 
+1588473;cocina cocina cocina condimento fideo jugo jugo limpieza otros snack snack snack utiles yogurt 
+1619035;aceite azucar bebida bebida cafe cafe cafe cereal cereal cereal cereal chocolate chocolate chocolate chocolate chocolate condimento condimento condimento condimento condimento fideo helado jugo lacteo lacteo lacteo limpieza limpieza otros postre postre postre salsa salsa snack snack snack snack snack snack snack snack snack snack snack snack snack snack snack snack snack snack snack snack snack sopa te te yogurt 
+1619036;condimento fiesta jugo lacteo lacteo otros otros otros snack snack snack snack snack snack snack snack snack snack 
+1644377;chocolate chocolate chocolate chocolate jugo jugo jugo mascota postre postre snack snack snack snack snack snack 
+1651276;chocolate chocolate jugo jugo jugo jugo jugo jugo jugo mascota mascota mascota snack snack snack snack snack 
+1656764;bebida chocolate helado jugo jugo jugo jugo jugo jugo jugo jugo postre snack snack snack snack snack snack snack 
+1658718;fideo fideo jugo jugo jugo mascota snack snack snack snack snack snack 
+1662967;chocolate chocolate helado postre snack 
+1666345;arroz helado jugo jugo jugo jugo jugo jugo snack snack 
+1668061;chocolate fideo fideo fideo fideo jugo jugo jugo jugo jugo snack snack snack snack snack snack snack 
+1671561;fideo fideo 
+1671562;bebida cereal cereal chocolate conserva helado jugo jugo jugo jugo otros postre snack snack snack snack snack snack snack snack snack 
+1700658;construccion 
+1730579;higiene limpieza limpieza limpieza limpieza otros otros otros 
+1730858;cocina construccion limpieza limpieza limpieza limpieza limpieza limpieza otros otros utiles utiles 
+1747078;condimento 
+1751974;limpieza limpieza limpieza utiles 
+1770025;celular 
+1789045;cocina higiene limpieza otros utiles 
+2333190;higiene higiene higiene higiene higiene higiene legumbre limpieza snack 
+2346886;condimento detergente detergente higiene higiene legumbre legumbre mascota mascota sal salsa 
+2346887;higiene higiene 
+2356952;higiene higiene 
+2359690;jugo jugo jugo jugo jugo jugo jugo jugo legumbre legumbre snack 
+2369009;construccion construccion higiene legumbre limpieza limpieza mascota mascota 
+2382035;higiene higiene 
+2384171;condimento construccion higiene legumbre legumbre legumbre legumbre legumbre limpieza limpieza mascota snack 
+2391897;higiene higiene higiene higiene higiene higiene 
+2397791;condimento detergente higiene higiene higiene higiene legumbre mascota salsa snack 
+2416086;condimento higiene higiene higiene higiene limpieza mascota snack snack snack 
+2435667;condimento higiene higiene higiene higiene legumbre mascota snack 
+2451220;condimento condimento construccion construccion higiene legumbre legumbre limpieza limpieza limpieza limpieza preservativo preservativo salsa salsa snack 
+2470987;condimento higiene higiene higiene limpieza limpieza limpieza mascota snack 
+2490367;arroz higiene higiene legumbre legumbre snack 
+2508399;higiene higiene higiene legumbre legumbre legumbre legumbre limpieza marisco salsa 
+2659737;servicio servicio 
+4481084;cafe cafe cafe 
+4755032;embutido 
+5172506;construccion helado helado helado 
+5199340;condimento higiene higiene higiene servicio 
+5214239;higiene higiene lacteo servicio 
+5301371;construccion helado helado helado helado helado helado helado 
+5320599;construccion helado helado helado postre postre 
+5323032;helado helado helado 
+5324608;helado helado helado helado helado helado helado helado helado 
+5328483;construccion helado helado helado helado helado helado helado helado helado 
+5329735;construccion helado helado helado 
+5330927;higiene lacteo salsa servicio te 
+5332066;construccion helado helado helado helado helado helado postre 
+5343497;higiene servicio 
+5354764;construccion helado helado helado helado helado helado helado 
+5355987;construccion helado helado helado helado 
+5356404;helado 
+5357428;helado 
+5357448;helado 
+5357457;construccion helado helado helado helado helado helado helado postre 
+5358079;construccion helado helado helado helado 
+5359082;construccion helado helado helado helado helado postre postre 
+5359828;construccion helado helado helado helado helado helado 
+5361472;construccion helado helado helado helado helado helado helado helado postre 
+5362017;construccion helado helado helado helado helado 
+5362837;construccion helado helado helado helado helado helado 
+5363188;helado 
+5363499;helado helado helado helado helado 
+5483286;higiene higiene limpieza promocion servicio 
+5488009;condimento condimento higiene higiene servicio 
+5493621;higiene higiene servicio 
+6434065;snack snack 
+6479144;pan 
+6537459;pan 
+6548448;pan snack 
+8697558;cereal chocolate chocolate condimento condimento condimento condimento condimento condimento condimento condimento condimento conserva conserva legumbre snack 
+8783502;cereal condimento conserva snack 
+8783560;cereal cereal condimento condimento snack snack snack snack 
+8823107;cereal cereal condimento condimento condimento dulce snack 
+8823149;conserva 
+11010081;snack 
+15482203;construccion construccion otros 
+16289839;construccion otros otros otros 
+16300038;construccion higiene otros otros 
+16895010;bebida 
+16929069;bebida bebida bebida 
+17591647;snack snack snack 
+17591753;cereal cereal snack snack snack snack snack 
+18256364;snack snack snack snack snack snack snack snack 
+18260269;snack snack snack snack snack snack snack snack 
+18260385;condimento snack snack snack snack snack 
+18267417;snack snack snack snack snack snack snack snack snack 
+18267546;snack snack snack snack snack snack snack snack snack snack snack snack snack snack snack 
+18271628;snack snack snack 
+18378257;snack snack snack snack snack snack 
+18378347;snack snack snack snack 
+18387151;cereal condimento snack snack snack 
+18398453;snack snack snack 
+19475136;otros servicio servicio 
+19609562;otros servicio servicio servicio servicio 
+19744737;otros servicio servicio servicio 
+20398616;agua  agua  bebida bebida bebida bebida bebida bebida bebida bebida bebida bebida bebida bebida cafe 
+20452031;agua  agua  bebida bebida bebida bebida bebida bebida chocolate cocina higiene higiene higiene snack snack yogurt yogurt 
+20452032;agua  bebida bebida bebida bebida bebida embutido higiene higiene higiene lacteo limpieza snack snack yogurt yogurt yogurt 
+20479453;agua  bebida bebida bebida bebida bebida bebida bebida bebida bebida bebida bebida higiene snack snack yogurt yogurt 
+20479454;agua  bebida bebida bebida bebida bebida bebida jugo snack snack 
+20518603;embutido otros pollo pollo 
+20539388;agua  agua  agua  bebida bebida 
+20595783;embutido embutido embutido embutido 
+20667018;embutido embutido embutido embutido verdura 
+20707248;embutido embutido pan pollo 
+20767966;embutido embutido embutido embutido embutido pollo 
+20816358;embutido embutido embutido pan 
+20852565;embutido otros pollo 
+20852566;embutido embutido 
+20947831;embutido embutido embutido embutido embutido pollo 
+20994140;embutido embutido pollo 
+21018603;embutido embutido embutido pan pan 
+21055190;embutido embutido otros 
+21062183;embutido embutido embutido embutido pollo 
+21110533;embutido embutido embutido embutido pollo 
+21239290;bebida servicio 
+21260803;bebida servicio 
+21338338;mascota servicio 
+21339051;jugo servicio 
+23107836;cafe cafe cafe 
+23111105;cafe cafe cafe lacteo 
+23113839;cafe cafe 
+23118263;cafe cafe cafe 
+23121154;cafe cafe cafe 
+23122352;lacteo 
+23126155;cafe cafe cafe cafe 
+23128231;cafe cafe cafe lacteo 
+23154010;helado helado helado helado helado helado helado helado licor snack 
+23171474;helado helado helado helado helado helado helado helado helado helado helado helado helado helado licor snack 
+23321830;helado helado helado helado helado helado helado licor snack 
+23335731;helado helado helado helado helado helado helado helado helado helado helado helado helado helado helado helado licor snack 
+25930899;vessi 
+26153636;vessi vessi vessi vessi vessi vessi vessi vessi vessi vessi vessi vessi 
+26180184;servicio vessi vessi vessi vessi vessi 
+26189153;vessi vessi 
+26414131;vessi vessi vessi vessi vessi vessi vessi vessi vessi vessi vessi 
+26423659;vessi vessi vessi vessi vessi vessi vessi vessi vessi vessi 
+26441688;servicio vessi vessi vessi vessi vessi vessi 
+26933734;vessi vessi vessi vessi vessi vessi vessi vessi vessi vessi vessi vessi vessi 
+26943647;vessi vessi vessi vessi vessi vessi vessi vessi vessi 
+27712219;carne embutido embutido embutido 
+27733963;carne carne embutido embutido embutido 
+27783325;embutido embutido embutido embutido embutido embutido embutido embutido 
+27830988;carne carne carne condimento embutido embutido 
+27890830;embutido embutido embutido embutido embutido embutido embutido 
+27900335;embutido 
+27937653;carne embutido embutido 
+27982823;carne embutido embutido embutido embutido 
+28017654;carne embutido embutido embutido embutido 
+28043449;carne carne 
+28064795;embutido embutido embutido embutido 
+28102724;carne embutido embutido embutido 
+28139723;embutido embutido embutido embutido embutido embutido 
+28199694;carne embutido embutido embutido embutido embutido embutido embutido embutido pollo 
+28249216;carne embutido 
+28293056;embutido embutido embutido 
+28306941;carne embutido embutido 
+28352422;carne embutido embutido embutido 
+28376615;embutido embutido embutido embutido embutido embutido 
+28386161;carne embutido embutido 
+28396421;carne embutido embutido 
+28424838;embutido embutido embutido embutido 
+28493149;embutido embutido embutido embutido embutido pollo 
+28524063;carne carne 
+29685509;pan pan pan pan pan pan snack snack 
+29685573;pan pan snack snack snack snack snack snack 
+29690737;pan pan pan pan pan pan snack snack snack snack snack snack snack 
+29699301;pan pan snack snack snack snack snack 
+29699370;pan pan pan pan pan pan snack snack snack snack snack 
+29841125;pan pan pan pan snack snack snack 
+29841181;pan pan pan pan snack snack snack snack snack 
+29841183;pan pan 
+29843496;pan pan pan pan pan papel higienico snack snack snack snack snack snack snack 
+29846145;pan pan pan pan snack snack snack 
+29846198;pan pan pan pan pan pan snack snack snack snack snack 
+29849761;pan pan pan pan pan pan snack snack snack snack snack 
+29856709;pan pan pan pan pan pan pan pan snack snack snack snack 
+29856763;pan pan pan pan pan pan pan snack snack snack snack 
+29862632;pan pan pan pan pan snack snack snack snack snack snack 
+29862683;pan pan papel higienico snack snack snack snack 
+29991131;pan pan papel higienico snack snack snack snack snack snack snack 
+29991319;pan pan pan snack snack snack snack snack snack snack snack snack snack snack 
+30012439;pan pan pan pan pan pan papel higienico snack snack snack snack snack 
+30012493;pan pan pan snack snack 
+30019441;pan pan pan pan pan pan pan pan snack snack snack snack 
+30019496;pan pan pan pan pan pan pan pan snack snack snack 
+30025058;pan pan pan pan pan pan pan pan pan snack snack snack 
+30151029;pan pan pan pan snack snack snack snack 
+30151070;pan pan pan pan pan pan pan snack snack snack snack snack snack snack 
+30156112;pan pan pan pan pan snack snack snack snack 
+30156173;pan pan pan pan pan snack snack snack snack 
+30162531;pan pan pan pan pan pan snack snack snack snack 
+30162590;pan pan pan pan pan pan pan snack snack snack snack 
+30194358;otros pan pan pan pan pan snack snack snack snack snack snack snack 
+30205507;otros pan pan pan pan pan pan pan papel higienico snack snack snack snack snack snack snack snack snack snack 
+30205636;pan pan pan snack snack snack snack snack 
+30355278;otros pan pan pan pan snack snack snack snack snack snack 
+30363108;otros pan pan papel higienico snack snack snack snack snack snack snack snack snack snack 
+30426641;pan pan pan pan pan pan pan snack snack snack snack snack snack snack 
+30431820;pan pan pan pan pan snack snack snack snack 
+30512326;otros pan pan pan pan pan pan pan snack snack snack snack snack snack snack snack snack 
+56599946;agua  agua  agua  agua  bebida bebida bebida bebida bebida bebida bebida bebida bebida bebida bebida bebida bebida bebida bebida bebida jugo jugo jugo jugo jugo jugo jugo jugo 
+56650721;agua  agua  agua  agua  jugo jugo jugo jugo jugo 
+56751211;agua  agua  agua  agua  agua  agua  agua  agua  agua  bebida bebida bebida bebida bebida bebida bebida bebida bebida bebida bebida bebida jugo jugo jugo jugo jugo jugo 
+56799742;agua  agua  agua  agua  agua  agua  agua  agua  agua  jugo jugo jugo jugo jugo jugo jugo 
+56836152;agua  agua  agua  bebida bebida bebida bebida bebida bebida bebida bebida bebida bebida bebida bebida jugo jugo jugo jugo jugo jugo 
+56869070;agua  agua  agua  agua  bebida jugo jugo jugo jugo jugo 
+56901127;agua  agua  agua  agua  bebida bebida bebida bebida bebida bebida bebida bebida bebida bebida bebida bebida bebida bebida bebida bebida bebida 
+63359021;servicio servicio servicio servicio servicio servicio 
+66894861;Categorias embutido embutido legumbre verdura 
+66894997;carne carne embutido embutido snack verdura 
+66895177;bebida legumbre pollo pollo verdura verdura 
+66909260;carne pollo pollo pollo pollo verdura verdura 
+66909429;carne legumbre legumbre verdura 
+66909562;embutido embutido pollo 
+66909723;carne pollo pollo pollo 
+66909921;carne embutido pollo pollo verdura 
+66910079;carne verdura 
+67448650;carne pollo verdura 
+67448898;bebida pollo pollo verdura 
+67449036;legumbre pollo verdura verdura verdura 
+67449187;pollo verdura 
+67449339;carne embutido legumbre pollo verdura 
+67449487;carne snack verdura verdura 
+67817103;carne pollo pollo verdura verdura 
+67817262;carne embutido pollo 
+67817554;bebida carne pollo verdura verdura 
+67817698;Categorias 
+67817857;carne pollo snack 
+67818067;bebida legumbre pollo snack 
+67843209;carne carne embutido pollo pollo 
+67843359;carne embutido legumbre 
+67843508;carne 
+67843549;carne pollo pollo 
+67843658;bebida legumbre pollo verdura verdura 
+87311231;bebida bebida servicio 
+87311232;bebida bebida bebida bebida bebida bebida jugo jugo jugo jugo servicio te 
+87311233;mascota mascota mascota servicio 
+87311234;postre snack 
+87441292;jugo jugo jugo servicio 
+87441293;bebida bebida jugo servicio te te 
+87645741;mascota mascota mascota servicio 
+87645742;jugo jugo servicio 
+87645743;snack 
+87748805;jugo jugo jugo servicio 
+87748806;agua  agua  agua  servicio 
+87748807;bebida bebida bebida bebida bebida bebida jugo servicio 
+87875350;jugo jugo jugo servicio 
+87875351;bebida bebida bebida bebida bebida bebida jugo servicio 
+87875352;agua  agua  agua  servicio 
+87875353;postre snack 
+88141620;jugo jugo jugo servicio 
+88141621;bebida bebida bebida bebida bebida bebida bebida bebida jugo jugo jugo servicio 
+88141622;bebida bebida bebida bebida bebida bebida jugo servicio 
+88141623;agua  agua  agua  agua  agua  mascota mascota mascota servicio 
+88141624;snack 
+88255149;bebida jugo jugo jugo servicio 
+88255150;snack 
+88378484;bebida bebida bebida bebida bebida jugo servicio 
+88378485;agua  agua  agua  servicio 
+88494055;jugo jugo jugo servicio 
+88494056;bebida bebida bebida servicio 
+88494057;bebida bebida jugo jugo jugo servicio 
+88494058;postre snack snack 
+88589016;servicio te te 
+88699488;bebida jugo jugo jugo servicio 
+88808571;jugo jugo jugo servicio 
+88808572;bebida bebida bebida bebida bebida bebida bebida jugo jugo jugo servicio 
+88808573;mascota mascota servicio 
+89027666;bebida bebida bebida bebida bebida bebida bebida bebida bebida jugo jugo servicio 
+89027667;bebida jugo servicio 
+89027668;agua  agua  agua  agua  agua  servicio 
+89027669;snack 
+89108792;jugo jugo jugo servicio 
+89108793;jugo jugo jugo servicio 
+89220570;jugo jugo jugo servicio 
+89220571;bebida bebida bebida bebida bebida bebida bebida jugo jugo jugo servicio 
+89220572;agua  agua  agua  agua  agua  servicio 
+89220573;postre 
+89338087;jugo jugo jugo servicio 
+89338088;bebida bebida servicio 
+89338089;bebida jugo jugo jugo jugo jugo servicio 
+89338090;agua  agua  agua  mascota mascota mascota servicio 
+89445659;jugo jugo jugo servicio 
+89445660;bebida bebida bebida bebida bebida bebida bebida bebida jugo jugo jugo servicio 
+89575802;bebida bebida bebida bebida bebida jugo jugo jugo jugo servicio 
